@@ -1,0 +1,42 @@
+# SQL Project – Food Delivery Data Analysis
+
+This project focuses on analyzing operational and customer-related data from a fictional food delivery platform. The goal is to generate insights that can help improve restaurant performance, delivery efficiency, and overall customer satisfaction.
+
+## Project Objectives
+
+- Identify top-performing restaurants based on average ratings
+- Analyze average delivery times by city
+- Find the most popular food items
+- Understand customer ordering patterns and repeat behavior
+- Determine peak ordering times by day and hour
+
+## Tools and Technologies
+
+- PostgreSQL
+- pgAdmin
+- SQL (including joins, aggregate functions, subqueries, and window functions)
+
+## File Overview
+
+- `food_delivery_project.sql`: Contains all the queries written for the analysis, with inline comments for explanation and clarity
+
+## Sample Analyses Included
+
+- Top 5 cities with the fastest delivery times
+- Most frequent customers by number of orders
+- Average ratings per restaurant
+- Food item order frequencies
+- Weekday vs weekend order volume
+
+## Learning Outcomes
+
+- Applying SQL to solve real-world business problems
+- Improving query writing skills using complex joins and aggregations
+- Developing the ability to derive insights from raw data
+- Structuring SQL projects for clarity and presentation
+
+## Author
+
+Vani Thanmayee Kasarla  
+Master’s in Business Analytics  
+GitHub: [your GitHub profile link]
